@@ -1,0 +1,15 @@
+creation_timestamp: 1784149137827
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1784149137827
+model_id: m-deab3aed07bd4ec3bc6388124ca2576a
+name: fraud_detection.ml.fraud_classifier
+run_id: 3e1eac6439dd416f947d108afd65defd
+run_link: null
+source: models:/m-deab3aed07bd4ec3bc6388124ca2576a
+status: READY
+status_message: null
+storage_location: dbfs:/databricks/mlflow-tracking/1645116895906184/logged_models/m-deab3aed07bd4ec3bc6388124ca2576a/artifacts
+user_id: null
+version: 22
